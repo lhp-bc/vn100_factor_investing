@@ -12,7 +12,7 @@ To design and test a basic **factor investing** strategy using price and financi
 - **Universe:** VN100 constituents  
 - **Data:** Daily price and volume from `vnstock` library  
 - **Factors:**
-  - Momentum (12–1 month)
+  - Momentum (12-1 month)
   - Value (Book-to-Market ratio)
   - Quality (ROE TTM)
 - **Portfolio construction:**
