@@ -5,10 +5,10 @@ Backtest a simple factor investing strategy on VN100 (2020–2025)
 This project was done as part of the Miquant Quant Intern assignment.  
 It backtests a simple multi-factor strategy using **VN100** stocks from **January 2020 to October 2025**.
 
-🔹 Objective
+---- Objective
 To design and test a basic **factor investing** strategy using price and financial data from the Vietnam stock market.
 
-🔹 Methodology
+---- Methodology
 - **Universe:** VN100 constituents  
 - **Data:** Daily price and volume from `vnstock` library  
 - **Factors:**
@@ -21,7 +21,7 @@ To design and test a basic **factor investing** strategy using price and financi
   - Transaction cost: 0.3% per side, 0.1% sell tax
 - **Benchmark:** VNINDEX
 
-🔹 Results
+---- Results
 | Metric | Value |
 |---------|-------|
 | CAGR | XX% |
@@ -29,4 +29,4 @@ To design and test a basic **factor investing** strategy using price and financi
 | Sharpe Ratio | XX |
 | Max Drawdown | XX% |
 
-🔹 Folder Structure
+---- Folder Structure
